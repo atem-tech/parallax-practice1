@@ -1,0 +1,83 @@
+header {
+  position: fixed;
+  z-index: 15;
+}
+.firstSection {
+  /* The image used */
+  background-image: url("../IMG/katie-moum-l0GRQpXwgPk-unsplash.jpg");
+  position: relative;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+
+  /* Create the parallax scrolling effect */
+}
+.secondSection {
+  /* The image used */
+  background-image: url("../IMG/pexels-jill-wellington-39853.jpg");
+  position: relative;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+
+  /* Create the parallax scrolling effect */
+}
+.thirdSection {
+  /* The image used */
+  background-image: url("../IMG/pexels-helena-lopes-697244.jpg");
+  position: relative;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+
+  /* Create the parallax scrolling effect */
+}
+.forthSection {
+  /* The image used */
+  background-image: url("../IMG/pexels-victor-freitas-847483.jpg");
+  position: relative;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+
+  /* Create the parallax scrolling effect */
+}
+.fifthSection {
+  /* The image used */
+  background-image: url("../IMG/pexels-lisa-fotios-1112290.jpg");
+  position: relative;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+
+  /* Create the parallax scrolling effect */
+}
+.trip {
+  margin: 360px auto;
+  font-size: 80px;
+  font-weight: 600;
+  font-family: "Lobster", Open Sans;
+}
+footer {
+  height: 200px;
+}
+.rounded-circle {
+  background-color: lightgrey;
+  height: 50px;
+  width: 50px;
+}
